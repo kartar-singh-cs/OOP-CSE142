@@ -1,7 +1,7 @@
 # Object-Oriented Programming — CSE142
 ![C++](https://img.shields.io/badge/Language-C%2B%2B17-blue?style=flat-square)
 ![IBA](https://img.shields.io/badge/Institute-IBA%20Karachi-yellow?style=flat-square)
-![Course](https://img.shields.io/badge/Course-CSE142-lightgrey?style=flat-square)
+![Course](https://img.shields.io/badge/Course-OOP-lightgrey?style=flat-square)
 
 My lab work, assignments, and game project from Object-Oriented Programming at IBA Karachi. This course picked up right where ITP left off — moving from procedural C++ into the world of classes, inheritance, polymorphism, and eventually algorithms and templates.
 
@@ -30,6 +30,9 @@ oop-cs142/
 ├── Assignments/
 │   ├── Assignment01/
 │   └── Assignment02/
+│
+├── assets/
+│   └── structure.png              # Repository structure screenshot
 │
 └── OOP_Game_Project_pdf/
     └── SpaceInvaders_Report.pdf   → full project documentation
@@ -60,7 +63,7 @@ A fully functional **Space Invaders** clone built in C++ as the course's capston
 The full project report and documentation are in the `OOP_Game_Project_pdf/` folder.
 
 The playable game is hosted separately on GitHub:
-👉 [Space Invaders – View Repository](https://github.com/kartar-singh-cs/space-invaders)
+👉 [Space Invaders – View Repository](https://github.com/kartar-singh-cs/space-invaders-oop-cpp)
 
 ---
 
@@ -82,6 +85,10 @@ g++ -std=c++17 task1.cpp -o task1
 ```
 
 ---
+
+## 📸 Repository Structure
+
+![Repository Structure](assets/structure.png)
 
 ## 👨‍💻 Developer
 
